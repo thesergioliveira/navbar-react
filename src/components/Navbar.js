@@ -25,7 +25,7 @@ const Navbar = () => {
       <nav>
         <ul>
           <li>
-            <span></span>
+            <span>Navigation</span>
             <a>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
