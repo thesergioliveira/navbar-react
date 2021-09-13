@@ -1,8 +1,8 @@
 import Navbar from "./components/Navbar";
-
+import "../src/sass/main.scss";
 function App() {
   return (
-    <div>
+    <div class="">
       <Navbar />
       <div class="main-container">
         <h1>Main content</h1>

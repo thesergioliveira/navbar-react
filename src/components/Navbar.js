@@ -46,22 +46,16 @@ const Navbar = () => {
             <span>About</span>
           </li>
           <li>
-            <a>
-              <svg></svg>
-            </a>
             <span>Shop</span>
+            <a>{/* <svg></svg> */}</a>
           </li>
           <li>
-            <a>
-              <svg></svg>
-            </a>
             <span>Contact</span>
+            <a>{/* <svg></svg> */}</a>
           </li>
           <li>
-            <a>
-              <svg></svg>
-            </a>
             <span>Change Theme</span>
+            <a>{/* <svg></svg> */}</a>
           </li>
         </ul>
       </nav>
