@@ -1,0 +1,10 @@
+.main-container {
+  width: 50%;
+  margin: 0 auto;
+  position: absolute;
+  left: clamp(3rem, 25vw, 20rem);
+  h1,
+  p {
+    text-align: center;
+  }
+}

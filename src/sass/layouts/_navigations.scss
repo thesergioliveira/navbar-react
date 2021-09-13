@@ -1,0 +1,19 @@
+nav {
+  position: absolute;
+  margin: 0 auto;
+  height: 100vw;
+  width: clamp(3rem, 25vw, 20rem);
+  background-color: black;
+  ul {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    li {
+      list-style: none;
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
